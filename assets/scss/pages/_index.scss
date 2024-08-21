@@ -1,0 +1,15 @@
+
+.content{
+  width: calc(100% - 296px);
+  margin-left: auto;
+}
+
+.main-content{
+  gap: 24px;
+  ol{
+    width: 34%;
+  }
+  .card-content{
+    width: 64%;
+  }
+}

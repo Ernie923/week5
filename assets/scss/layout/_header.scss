@@ -1,0 +1,11 @@
+aside{
+    width: 296px;
+    padding: 32px 0;
+    margin-left: auto;
+    a{
+        padding: 10px 0;
+        &:hover{
+            background-color: #CED4Da;
+        }
+    }
+}
